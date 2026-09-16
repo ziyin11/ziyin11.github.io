@@ -71,5 +71,5 @@ Welcome to my personal page! I am currently a Master's student in Communication 
 ### 🛠 Skills & Self-Introduction
 
 -   **Tools**: Xiumi Editor, Photoshop (PS), Premiere (PR).
--   **Contact**: 825775875@qq.com | +86 151-5560-2024
+-   **Contact**: ziyin_zhu@smail.nju.edu.cn | +86 151-5560-2024
 -   **About Me**: I am a quick learner who enjoys mastering new skills. I thrive in collaborative environments and value team harmony. My self-positioning within a team is that of a proactive suggester and a reliable executor.
